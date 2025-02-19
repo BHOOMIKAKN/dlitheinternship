@@ -1,0 +1,15 @@
+a=10
+b=12
+c=45
+d,e,f=20,22,25
+q,w,t="we","sda","fefe"
+print(a,b,c)
+print(d,e,f)
+print(q,w,t)
+list=["apple","kiwi","orange"]
+o,t,p=list
+print(o,t,p)
+g="python"
+h="is"
+v="osm"
+print(g,h,v)
